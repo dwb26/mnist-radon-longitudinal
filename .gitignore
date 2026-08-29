@@ -1,2 +1,4 @@
 src/clustering
 src/utils/tensor_ops
+data/*
+!data/.gitkeep
