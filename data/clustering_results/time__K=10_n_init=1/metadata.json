@@ -1,0 +1,27 @@
+{
+    "experiment_name": "data/clustering_results/time__K=10_n_init=1",
+    "timestamp": "2026-08-29T21:03:23.550327",
+    "hyperparameters": {
+        "K": 10,
+        "n_responses": 1,
+        "lambda_reg": 75000.0,
+        "beta": 1e-12,
+        "n_init": 1,
+        "max_iter": 100,
+        "tol": 1e-05,
+        "init": "random",
+        "random_state": null
+    },
+    "dataset_metadata": {
+        "time_column": "time",
+        "active_responses": [],
+        "n_patients": 1000,
+        "mesh_size": 361
+    },
+    "diagnostics": {
+        "converged": true,
+        "iterations_run": 40,
+        "final_wcss": 414921.88317662943,
+        "final_loss": 414937.2844448357
+    }
+}
